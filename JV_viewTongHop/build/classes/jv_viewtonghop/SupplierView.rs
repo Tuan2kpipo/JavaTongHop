@@ -1,0 +1,6 @@
+JV_viewtonghop.SupplierView$Table2
+ViewExample.SupplierView$Table2
+JV_viewtonghop.SupplierView$Input2
+JV_viewtonghop.SupplierView
+ViewExample.SupplierView$Input2
+ViewExample.SupplierView
